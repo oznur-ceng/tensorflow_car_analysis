@@ -1,0 +1,2 @@
+# ysa
+yapay sinir ağları
