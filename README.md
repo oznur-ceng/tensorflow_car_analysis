@@ -1,2 +1,1 @@
-# ysa
-yapay sinir ağları
+artificial neural network
